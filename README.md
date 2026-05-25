@@ -1,0 +1,1 @@
+# weld-seam-anomaly-detection-methodology
