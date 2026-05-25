@@ -358,3 +358,14 @@ Applied AI / Computer Vision Engineer
 Rosenheim, Germany
 
 [LinkedIn](https://linkedin.com/in/pranav-chavan-) · [GitHub](https://github.com/Pranavc25)
+
+---
+
+## Detailed Documentation
+
+For a deeper technical explanation, see:
+
+- [Methodology](docs/methodology.md)
+- [Model Trials](docs/model_trials.md)
+- [Evaluation & Failure Analysis](docs/evaluation.md)
+- [Deployment-Oriented Plan](docs/deployment_plan.md)
